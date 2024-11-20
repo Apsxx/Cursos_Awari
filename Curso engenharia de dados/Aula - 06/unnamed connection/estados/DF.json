@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239932"),
+    "index" : NumberInt(0),
+    "Unnamed: 0" : NumberInt(755),
+    "codigo_ibge" : NumberInt(5300108),
+    "nome" : "Brasília",
+    "latitude" : -15.7795,
+    "longitude" : -47.9297,
+    "capital" : NumberInt(1),
+    "codigo_uf" : NumberInt(53),
+    "siafi_id" : NumberInt(9701),
+    "ddd" : NumberInt(61),
+    "fuso_horario" : "America/Sao_Paulo"
+}

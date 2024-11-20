@@ -1,0 +1,308 @@
+{
+    "_id" : ObjectId("673e5ac6909e0611d923960f"),
+    "index" : NumberInt(0),
+    "Unnamed: 0" : NumberInt(26),
+    "codigo_ibge" : NumberInt(1200013),
+    "nome" : "Acrelândia",
+    "latitude" : -9.82581,
+    "longitude" : -66.8972,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(643),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239610"),
+    "index" : NumberInt(1),
+    "Unnamed: 0" : NumberInt(410),
+    "codigo_ibge" : NumberInt(1200054),
+    "nome" : "Assis Brasil",
+    "latitude" : -10.9298,
+    "longitude" : -69.5738,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(157),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239611"),
+    "index" : NumberInt(2),
+    "Unnamed: 0" : NumberInt(753),
+    "codigo_ibge" : NumberInt(1200104),
+    "nome" : "Brasiléia",
+    "latitude" : -10.995,
+    "longitude" : -68.7497,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(105),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239612"),
+    "index" : NumberInt(3),
+    "Unnamed: 0" : NumberInt(796),
+    "codigo_ibge" : NumberInt(1200138),
+    "nome" : "Bujari",
+    "latitude" : -9.81528,
+    "longitude" : -67.955,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(645),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239613"),
+    "index" : NumberInt(4),
+    "Unnamed: 0" : NumberInt(1082),
+    "codigo_ibge" : NumberInt(1200179),
+    "nome" : "Capixaba",
+    "latitude" : -10.566,
+    "longitude" : -67.686,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(647),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239614"),
+    "index" : NumberInt(5),
+    "Unnamed: 0" : NumberInt(1485),
+    "codigo_ibge" : NumberInt(1200203),
+    "nome" : "Cruzeiro do Sul",
+    "latitude" : -7.62762,
+    "longitude" : -72.6756,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(107),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239615"),
+    "index" : NumberInt(6),
+    "Unnamed: 0" : NumberInt(1678),
+    "codigo_ibge" : NumberInt(1200252),
+    "nome" : "Epitaciolândia",
+    "latitude" : -11.0188,
+    "longitude" : -68.7341,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(651),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239616"),
+    "index" : NumberInt(7),
+    "Unnamed: 0" : NumberInt(1756),
+    "codigo_ibge" : NumberInt(1200302),
+    "nome" : "Feijó",
+    "latitude" : -8.17054,
+    "longitude" : -70.351,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(113),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239617"),
+    "index" : NumberInt(8),
+    "Unnamed: 0" : NumberInt(2608),
+    "codigo_ibge" : NumberInt(1200328),
+    "nome" : "Jordão",
+    "latitude" : -9.1908,
+    "longitude" : -71.9503,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(653),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239618"),
+    "index" : NumberInt(9),
+    "Unnamed: 0" : NumberInt(2886),
+    "codigo_ibge" : NumberInt(1200336),
+    "nome" : "Mâncio Lima",
+    "latitude" : -7.61657,
+    "longitude" : -72.8997,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(109),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239619"),
+    "index" : NumberInt(10),
+    "Unnamed: 0" : NumberInt(2900),
+    "codigo_ibge" : NumberInt(1200344),
+    "nome" : "Manoel Urbano",
+    "latitude" : -8.83291,
+    "longitude" : -69.2679,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(155),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961a"),
+    "index" : NumberInt(11),
+    "Unnamed: 0" : NumberInt(2946),
+    "codigo_ibge" : NumberInt(1200351),
+    "nome" : "Marechal Thaumaturgo",
+    "latitude" : -8.93898,
+    "longitude" : -72.7997,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(655),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961b"),
+    "index" : NumberInt(12),
+    "Unnamed: 0" : NumberInt(3873),
+    "codigo_ibge" : NumberInt(1200385),
+    "nome" : "Plácido de Castro",
+    "latitude" : -10.2806,
+    "longitude" : -67.1371,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(151),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961c"),
+    "index" : NumberInt(13),
+    "Unnamed: 0" : NumberInt(3946),
+    "codigo_ibge" : NumberInt(1200807),
+    "nome" : "Porto Acre",
+    "latitude" : -9.58138,
+    "longitude" : -67.5478,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(649),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961d"),
+    "index" : NumberInt(14),
+    "Unnamed: 0" : NumberInt(3980),
+    "codigo_ibge" : NumberInt(1200393),
+    "nome" : "Porto Walter",
+    "latitude" : -8.26323,
+    "longitude" : -72.7537,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(657),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961e"),
+    "index" : NumberInt(15),
+    "Unnamed: 0" : NumberInt(4193),
+    "codigo_ibge" : NumberInt(1200401),
+    "nome" : "Rio Branco",
+    "latitude" : -9.97499,
+    "longitude" : -67.8243,
+    "capital" : NumberInt(1),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(139),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d923961f"),
+    "index" : NumberInt(16),
+    "Unnamed: 0" : NumberInt(4261),
+    "codigo_ibge" : NumberInt(1200427),
+    "nome" : "Rodrigues Alves",
+    "latitude" : -7.73864,
+    "longitude" : -72.661,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(659),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239620"),
+    "index" : NumberInt(17),
+    "Unnamed: 0" : NumberInt(4474),
+    "codigo_ibge" : NumberInt(1200435),
+    "nome" : "Santa Rosa do Purus",
+    "latitude" : -9.44652,
+    "longitude" : -70.4902,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(661),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239621"),
+    "index" : NumberInt(18),
+    "Unnamed: 0" : NumberInt(4962),
+    "codigo_ibge" : NumberInt(1200500),
+    "nome" : "Sena Madureira",
+    "latitude" : -9.06596,
+    "longitude" : -68.6571,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(145),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239622"),
+    "index" : NumberInt(19),
+    "Unnamed: 0" : NumberInt(4970),
+    "codigo_ibge" : NumberInt(1200450),
+    "nome" : "Senador Guiomard",
+    "latitude" : -10.1497,
+    "longitude" : -67.7362,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(153),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239623"),
+    "index" : NumberInt(20),
+    "Unnamed: 0" : NumberInt(5177),
+    "codigo_ibge" : NumberInt(1200609),
+    "nome" : "Tarauacá",
+    "latitude" : -8.15697,
+    "longitude" : -70.7722,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(147),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}
+{
+    "_id" : ObjectId("673e5ac6909e0611d9239624"),
+    "index" : NumberInt(21),
+    "Unnamed: 0" : NumberInt(5560),
+    "codigo_ibge" : NumberInt(1200708),
+    "nome" : "Xapuri",
+    "latitude" : -10.6516,
+    "longitude" : -68.4969,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(12),
+    "siafi_id" : NumberInt(149),
+    "ddd" : NumberInt(68),
+    "fuso_horario" : "America/Rio_Branco"
+}

@@ -1,0 +1,728 @@
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51b"),
+    "index" : NumberInt(0),
+    "Unnamed: 0" : NumberInt(131),
+    "codigo_ibge" : NumberInt(1100015),
+    "nome" : "Alta Floresta D'Oeste",
+    "latitude" : -11.9283,
+    "longitude" : -61.9953,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(33),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51c"),
+    "index" : NumberInt(1),
+    "Unnamed: 0" : NumberInt(145),
+    "codigo_ibge" : NumberInt(1100379),
+    "nome" : "Alto Alegre dos Parecis",
+    "latitude" : -12.132,
+    "longitude" : -61.835,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(2),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51d"),
+    "index" : NumberInt(2),
+    "Unnamed: 0" : NumberInt(158),
+    "codigo_ibge" : NumberInt(1100403),
+    "nome" : "Alto Paraíso",
+    "latitude" : -9.71429,
+    "longitude" : -63.3188,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(675),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51e"),
+    "index" : NumberInt(3),
+    "Unnamed: 0" : NumberInt(179),
+    "codigo_ibge" : NumberInt(1100346),
+    "nome" : "Alvorada D'Oeste",
+    "latitude" : -11.3463,
+    "longitude" : -62.2847,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(35),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51f"),
+    "index" : NumberInt(4),
+    "Unnamed: 0" : NumberInt(381),
+    "codigo_ibge" : NumberInt(1100023),
+    "nome" : "Ariquemes",
+    "latitude" : -9.90571,
+    "longitude" : -63.0325,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(7),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a520"),
+    "index" : NumberInt(5),
+    "Unnamed: 0" : NumberInt(811),
+    "codigo_ibge" : NumberInt(1100452),
+    "nome" : "Buritis",
+    "latitude" : -10.1943,
+    "longitude" : -63.8324,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(4),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a521"),
+    "index" : NumberInt(6),
+    "Unnamed: 0" : NumberInt(826),
+    "codigo_ibge" : NumberInt(1100031),
+    "nome" : "Cabixi",
+    "latitude" : -13.4945,
+    "longitude" : -60.552,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(37),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a522"),
+    "index" : NumberInt(7),
+    "Unnamed: 0" : NumberInt(836),
+    "codigo_ibge" : NumberInt(1100601),
+    "nome" : "Cacaulândia",
+    "latitude" : -10.349,
+    "longitude" : -62.9043,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(677),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a523"),
+    "index" : NumberInt(8),
+    "Unnamed: 0" : NumberInt(863),
+    "codigo_ibge" : NumberInt(1100049),
+    "nome" : "Cacoal",
+    "latitude" : -11.4343,
+    "longitude" : -61.4562,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(9),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a524"),
+    "index" : NumberInt(9),
+    "Unnamed: 0" : NumberInt(982),
+    "codigo_ibge" : NumberInt(1100700),
+    "nome" : "Campo Novo de Rondônia",
+    "latitude" : -10.5712,
+    "longitude" : -63.6266,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(679),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a525"),
+    "index" : NumberInt(10),
+    "Unnamed: 0" : NumberInt(1015),
+    "codigo_ibge" : NumberInt(1100809),
+    "nome" : "Candeias do Jamari",
+    "latitude" : -8.7907,
+    "longitude" : -63.7005,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(681),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a526"),
+    "index" : NumberInt(11),
+    "Unnamed: 0" : NumberInt(1172),
+    "codigo_ibge" : NumberInt(1100908),
+    "nome" : "Castanheiras",
+    "latitude" : -11.4253,
+    "longitude" : -61.9482,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(691),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a527"),
+    "index" : NumberInt(12),
+    "Unnamed: 0" : NumberInt(1224),
+    "codigo_ibge" : NumberInt(1100056),
+    "nome" : "Cerejeiras",
+    "latitude" : -13.187,
+    "longitude" : -60.8168,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(27),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a528"),
+    "index" : NumberInt(13),
+    "Unnamed: 0" : NumberInt(1268),
+    "codigo_ibge" : NumberInt(1100924),
+    "nome" : "Chupinguaia",
+    "latitude" : -12.5611,
+    "longitude" : -60.8877,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(6),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a529"),
+    "index" : NumberInt(14),
+    "Unnamed: 0" : NumberInt(1317),
+    "codigo_ibge" : NumberInt(1100064),
+    "nome" : "Colorado do Oeste",
+    "latitude" : -13.1174,
+    "longitude" : -60.5454,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(23),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52a"),
+    "index" : NumberInt(15),
+    "Unnamed: 0" : NumberInt(1428),
+    "codigo_ibge" : NumberInt(1100072),
+    "nome" : "Corumbiara",
+    "latitude" : -12.9551,
+    "longitude" : -60.8947,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(981),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52b"),
+    "index" : NumberInt(16),
+    "Unnamed: 0" : NumberInt(1433),
+    "codigo_ibge" : NumberInt(1100080),
+    "nome" : "Costa Marques",
+    "latitude" : -12.4367,
+    "longitude" : -64.228,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(21),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52c"),
+    "index" : NumberInt(17),
+    "Unnamed: 0" : NumberInt(1495),
+    "codigo_ibge" : NumberInt(1100940),
+    "nome" : "Cujubim",
+    "latitude" : -9.36065,
+    "longitude" : -62.5846,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(8),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52d"),
+    "index" : NumberInt(18),
+    "Unnamed: 0" : NumberInt(1701),
+    "codigo_ibge" : NumberInt(1100098),
+    "nome" : "Espigão D'Oeste",
+    "latitude" : -11.5266,
+    "longitude" : -61.0252,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(25),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52e"),
+    "index" : NumberInt(19),
+    "Unnamed: 0" : NumberInt(1947),
+    "codigo_ibge" : NumberInt(1101005),
+    "nome" : "Governador Jorge Teixeira",
+    "latitude" : -10.61,
+    "longitude" : -62.7371,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(693),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a52f"),
+    "index" : NumberInt(20),
+    "Unnamed: 0" : NumberInt(1985),
+    "codigo_ibge" : NumberInt(1100106),
+    "nome" : "Guajará-Mirim",
+    "latitude" : -10.7889,
+    "longitude" : -65.3296,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(1),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a530"),
+    "index" : NumberInt(21),
+    "Unnamed: 0" : NumberInt(2395),
+    "codigo_ibge" : NumberInt(1101104),
+    "nome" : "Itapuã do Oeste",
+    "latitude" : -9.19687,
+    "longitude" : -63.1809,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(683),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a531"),
+    "index" : NumberInt(22),
+    "Unnamed: 0" : NumberInt(2549),
+    "codigo_ibge" : NumberInt(1100114),
+    "nome" : "Jaru",
+    "latitude" : -10.4318,
+    "longitude" : -62.4788,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(15),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a532"),
+    "index" : NumberInt(23),
+    "Unnamed: 0" : NumberInt(2579),
+    "codigo_ibge" : NumberInt(1100122),
+    "nome" : "Ji-Paraná",
+    "latitude" : -10.8777,
+    "longitude" : -61.9322,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(5),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a533"),
+    "index" : NumberInt(24),
+    "Unnamed: 0" : NumberInt(2842),
+    "codigo_ibge" : NumberInt(1100130),
+    "nome" : "Machadinho D'Oeste",
+    "latitude" : -9.44363,
+    "longitude" : -61.9818,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(39),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a534"),
+    "index" : NumberInt(25),
+    "Unnamed: 0" : NumberInt(3073),
+    "codigo_ibge" : NumberInt(1101203),
+    "nome" : "Ministro Andreazza",
+    "latitude" : -11.196,
+    "longitude" : -61.5174,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(695),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a535"),
+    "index" : NumberInt(26),
+    "Unnamed: 0" : NumberInt(3092),
+    "codigo_ibge" : NumberInt(1101302),
+    "nome" : "Mirante da Serra",
+    "latitude" : -11.029,
+    "longitude" : -62.6696,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(697),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a536"),
+    "index" : NumberInt(27),
+    "Unnamed: 0" : NumberInt(3155),
+    "codigo_ibge" : NumberInt(1101401),
+    "nome" : "Monte Negro",
+    "latitude" : -10.2458,
+    "longitude" : -63.29,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(685),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a537"),
+    "index" : NumberInt(28),
+    "Unnamed: 0" : NumberInt(3302),
+    "codigo_ibge" : NumberInt(1100148),
+    "nome" : "Nova Brasilândia D'Oeste",
+    "latitude" : -11.7247,
+    "longitude" : -62.3127,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(41),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a538"),
+    "index" : NumberInt(29),
+    "Unnamed: 0" : NumberInt(3343),
+    "codigo_ibge" : NumberInt(1100338),
+    "nome" : "Nova Mamoré",
+    "latitude" : -10.4077,
+    "longitude" : -65.3346,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(47),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a539"),
+    "index" : NumberInt(30),
+    "Unnamed: 0" : NumberInt(3385),
+    "codigo_ibge" : NumberInt(1101435),
+    "nome" : "Nova União",
+    "latitude" : -10.9068,
+    "longitude" : -62.5564,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(10),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53a"),
+    "index" : NumberInt(31),
+    "Unnamed: 0" : NumberInt(3406),
+    "codigo_ibge" : NumberInt(1100502),
+    "nome" : "Novo Horizonte do Oeste",
+    "latitude" : -11.6961,
+    "longitude" : -61.9951,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(689),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53b"),
+    "index" : NumberInt(32),
+    "Unnamed: 0" : NumberInt(3485),
+    "codigo_ibge" : NumberInt(1100155),
+    "nome" : "Ouro Preto do Oeste",
+    "latitude" : -10.7167,
+    "longitude" : -62.2565,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(17),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53c"),
+    "index" : NumberInt(33),
+    "Unnamed: 0" : NumberInt(3612),
+    "codigo_ibge" : NumberInt(1101450),
+    "nome" : "Parecis",
+    "latitude" : -12.1754,
+    "longitude" : -61.6032,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(12),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53d"),
+    "index" : NumberInt(34),
+    "Unnamed: 0" : NumberInt(3790),
+    "codigo_ibge" : NumberInt(1100189),
+    "nome" : "Pimenta Bueno",
+    "latitude" : -11.672,
+    "longitude" : -61.198,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(11),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53e"),
+    "index" : NumberInt(35),
+    "Unnamed: 0" : NumberInt(3792),
+    "codigo_ibge" : NumberInt(1101468),
+    "nome" : "Pimenteiras do Oeste",
+    "latitude" : -13.4823,
+    "longitude" : -61.0471,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(14),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a53f"),
+    "index" : NumberInt(36),
+    "Unnamed: 0" : NumberInt(3977),
+    "codigo_ibge" : NumberInt(1100205),
+    "nome" : "Porto Velho",
+    "latitude" : -8.76077,
+    "longitude" : -63.8999,
+    "capital" : NumberInt(1),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(3),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a540"),
+    "index" : NumberInt(37),
+    "Unnamed: 0" : NumberInt(4028),
+    "codigo_ibge" : NumberInt(1100254),
+    "nome" : "Presidente Médici",
+    "latitude" : -11.169,
+    "longitude" : -61.8986,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(19),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a541"),
+    "index" : NumberInt(38),
+    "Unnamed: 0" : NumberInt(4039),
+    "codigo_ibge" : NumberInt(1101476),
+    "nome" : "Primavera de Rondônia",
+    "latitude" : -11.8295,
+    "longitude" : -61.3153,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(16),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a542"),
+    "index" : NumberInt(39),
+    "Unnamed: 0" : NumberInt(4200),
+    "codigo_ibge" : NumberInt(1100262),
+    "nome" : "Rio Crespo",
+    "latitude" : -9.69965,
+    "longitude" : -62.9011,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(687),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a543"),
+    "index" : NumberInt(40),
+    "Unnamed: 0" : NumberInt(4265),
+    "codigo_ibge" : NumberInt(1100288),
+    "nome" : "Rolim de Moura",
+    "latitude" : -11.7271,
+    "longitude" : -61.7714,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(29),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a544"),
+    "index" : NumberInt(41),
+    "Unnamed: 0" : NumberInt(4423),
+    "codigo_ibge" : NumberInt(1100296),
+    "nome" : "Santa Luzia D'Oeste",
+    "latitude" : -11.9074,
+    "longitude" : -61.7777,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(43),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a545"),
+    "index" : NumberInt(42),
+    "Unnamed: 0" : NumberInt(4627),
+    "codigo_ibge" : NumberInt(1101484),
+    "nome" : "São Felipe D'Oeste",
+    "latitude" : -11.9023,
+    "longitude" : -61.5026,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(18),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a546"),
+    "index" : NumberInt(43),
+    "Unnamed: 0" : NumberInt(4652),
+    "codigo_ibge" : NumberInt(1101492),
+    "nome" : "São Francisco do Guaporé",
+    "latitude" : -12.052,
+    "longitude" : -63.568,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(20),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a547"),
+    "index" : NumberInt(44),
+    "Unnamed: 0" : NumberInt(4843),
+    "codigo_ibge" : NumberInt(1100320),
+    "nome" : "São Miguel do Guaporé",
+    "latitude" : -11.6953,
+    "longitude" : -62.7192,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(45),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a548"),
+    "index" : NumberInt(45),
+    "Unnamed: 0" : NumberInt(4988),
+    "codigo_ibge" : NumberInt(1101500),
+    "nome" : "Seringueiras",
+    "latitude" : -11.8055,
+    "longitude" : -63.0182,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(699),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a549"),
+    "index" : NumberInt(46),
+    "Unnamed: 0" : NumberInt(5193),
+    "codigo_ibge" : NumberInt(1101559),
+    "nome" : "Teixeirópolis",
+    "latitude" : -10.9056,
+    "longitude" : -62.242,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(22),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a54a"),
+    "index" : NumberInt(47),
+    "Unnamed: 0" : NumberInt(5226),
+    "codigo_ibge" : NumberInt(1101609),
+    "nome" : "Theobroma",
+    "latitude" : -10.2483,
+    "longitude" : -62.3538,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(975),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a54b"),
+    "index" : NumberInt(48),
+    "Unnamed: 0" : NumberInt(5407),
+    "codigo_ibge" : NumberInt(1101708),
+    "nome" : "Urupá",
+    "latitude" : -11.1261,
+    "longitude" : -62.3639,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(977),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a54c"),
+    "index" : NumberInt(49),
+    "Unnamed: 0" : NumberInt(5415),
+    "codigo_ibge" : NumberInt(1101757),
+    "nome" : "Vale do Anari",
+    "latitude" : -9.86215,
+    "longitude" : -62.1876,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(24),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a54d"),
+    "index" : NumberInt(50),
+    "Unnamed: 0" : NumberInt(5416),
+    "codigo_ibge" : NumberInt(1101807),
+    "nome" : "Vale do Paraíso",
+    "latitude" : -10.4465,
+    "longitude" : -62.1352,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(979),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a54e"),
+    "index" : NumberInt(51),
+    "Unnamed: 0" : NumberInt(5517),
+    "codigo_ibge" : NumberInt(1100304),
+    "nome" : "Vilhena",
+    "latitude" : -12.7502,
+    "longitude" : -60.1488,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(11),
+    "siafi_id" : NumberInt(13),
+    "ddd" : NumberInt(69),
+    "fuso_horario" : "America/Porto_Velho"
+}
