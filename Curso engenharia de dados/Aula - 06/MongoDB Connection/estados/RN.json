@@ -1,0 +1,2338 @@
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a474"),
+    "index" : NumberInt(0),
+    "Unnamed: 0" : NumberInt(21),
+    "codigo_ibge" : NumberInt(2400109),
+    "nome" : "Acari",
+    "latitude" : -6.4282,
+    "longitude" : -36.6347,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1601),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a475"),
+    "index" : NumberInt(1),
+    "Unnamed: 0" : NumberInt(28),
+    "codigo_ibge" : NumberInt(2400208),
+    "nome" : "Açu",
+    "latitude" : -5.58362,
+    "longitude" : -36.914,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1603),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a476"),
+    "index" : NumberInt(2),
+    "Unnamed: 0" : NumberInt(36),
+    "codigo_ibge" : NumberInt(2400307),
+    "nome" : "Afonso Bezerra",
+    "latitude" : -5.49229,
+    "longitude" : -36.5075,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1605),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a477"),
+    "index" : NumberInt(3),
+    "Unnamed: 0" : NumberInt(59),
+    "codigo_ibge" : NumberInt(2400406),
+    "nome" : "Água Nova",
+    "latitude" : -6.20351,
+    "longitude" : -38.2941,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1607),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a478"),
+    "index" : NumberInt(4),
+    "Unnamed: 0" : NumberInt(108),
+    "codigo_ibge" : NumberInt(2400505),
+    "nome" : "Alexandria",
+    "latitude" : -6.40533,
+    "longitude" : -38.0142,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1609),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a479"),
+    "index" : NumberInt(5),
+    "Unnamed: 0" : NumberInt(123),
+    "codigo_ibge" : NumberInt(2400604),
+    "nome" : "Almino Afonso",
+    "latitude" : -6.1475,
+    "longitude" : -37.7636,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1611),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47a"),
+    "index" : NumberInt(6),
+    "Unnamed: 0" : NumberInt(150),
+    "codigo_ibge" : NumberInt(2400703),
+    "nome" : "Alto do Rodrigues",
+    "latitude" : -5.28186,
+    "longitude" : -36.75,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1613),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47b"),
+    "index" : NumberInt(7),
+    "Unnamed: 0" : NumberInt(241),
+    "codigo_ibge" : NumberInt(2400802),
+    "nome" : "Angicos",
+    "latitude" : -5.65792,
+    "longitude" : -36.6094,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1615),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47c"),
+    "index" : NumberInt(8),
+    "Unnamed: 0" : NumberInt(264),
+    "codigo_ibge" : NumberInt(2400901),
+    "nome" : "Antônio Martins",
+    "latitude" : -6.21367,
+    "longitude" : -37.8834,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1617),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47d"),
+    "index" : NumberInt(9),
+    "Unnamed: 0" : NumberInt(281),
+    "codigo_ibge" : NumberInt(2401008),
+    "nome" : "Apodi",
+    "latitude" : -5.65349,
+    "longitude" : -37.7946,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1619),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47e"),
+    "index" : NumberInt(10),
+    "Unnamed: 0" : NumberInt(368),
+    "codigo_ibge" : NumberInt(2401107),
+    "nome" : "Areia Branca",
+    "latitude" : -4.95254,
+    "longitude" : -37.1252,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1621),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a47f"),
+    "index" : NumberInt(11),
+    "Unnamed: 0" : NumberInt(376),
+    "codigo_ibge" : NumberInt(2401206),
+    "nome" : "Arês",
+    "latitude" : -6.18831,
+    "longitude" : -35.1608,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1623),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a480"),
+    "index" : NumberInt(12),
+    "Unnamed: 0" : NumberInt(427),
+    "codigo_ibge" : NumberInt(2401305),
+    "nome" : "Augusto Severo (Campo Grande)",
+    "latitude" : -5.86206,
+    "longitude" : -37.3135,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1625),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a481"),
+    "index" : NumberInt(13),
+    "Unnamed: 0" : NumberInt(455),
+    "codigo_ibge" : NumberInt(2401404),
+    "nome" : "Baía Formosa",
+    "latitude" : -6.37161,
+    "longitude" : -35.0033,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1627),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a482"),
+    "index" : NumberInt(14),
+    "Unnamed: 0" : NumberInt(495),
+    "codigo_ibge" : NumberInt(2401453),
+    "nome" : "Baraúna",
+    "latitude" : -5.06977,
+    "longitude" : -37.6129,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(3003),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a483"),
+    "index" : NumberInt(15),
+    "Unnamed: 0" : NumberInt(502),
+    "codigo_ibge" : NumberInt(2401503),
+    "nome" : "Barcelona",
+    "latitude" : -5.94284,
+    "longitude" : -35.9247,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1629),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a484"),
+    "index" : NumberInt(16),
+    "Unnamed: 0" : NumberInt(605),
+    "codigo_ibge" : NumberInt(2401602),
+    "nome" : "Bento Fernandes",
+    "latitude" : -5.69906,
+    "longitude" : -35.813,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1631),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a485"),
+    "index" : NumberInt(17),
+    "Unnamed: 0" : NumberInt(661),
+    "codigo_ibge" : NumberInt(2401651),
+    "nome" : "Bodó",
+    "latitude" : -5.98027,
+    "longitude" : -36.4167,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(412),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a486"),
+    "index" : NumberInt(18),
+    "Unnamed: 0" : NumberInt(677),
+    "codigo_ibge" : NumberInt(2401701),
+    "nome" : "Bom Jesus",
+    "latitude" : -5.98648,
+    "longitude" : -35.5792,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1633),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a487"),
+    "index" : NumberInt(19),
+    "Unnamed: 0" : NumberInt(764),
+    "codigo_ibge" : NumberInt(2401800),
+    "nome" : "Brejinho",
+    "latitude" : -6.18566,
+    "longitude" : -35.3591,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1635),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a488"),
+    "index" : NumberInt(20),
+    "Unnamed: 0" : NumberInt(885),
+    "codigo_ibge" : NumberInt(2401859),
+    "nome" : "Caiçara do Norte",
+    "latitude" : -5.07091,
+    "longitude" : -36.0717,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(414),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a489"),
+    "index" : NumberInt(21),
+    "Unnamed: 0" : NumberInt(886),
+    "codigo_ibge" : NumberInt(2401909),
+    "nome" : "Caiçara do Rio do Vento",
+    "latitude" : -5.76541,
+    "longitude" : -35.9938,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1637),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48a"),
+    "index" : NumberInt(22),
+    "Unnamed: 0" : NumberInt(887),
+    "codigo_ibge" : NumberInt(2402006),
+    "nome" : "Caicó",
+    "latitude" : -6.45441,
+    "longitude" : -37.1067,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1639),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48b"),
+    "index" : NumberInt(23),
+    "Unnamed: 0" : NumberInt(984),
+    "codigo_ibge" : NumberInt(2402105),
+    "nome" : "Campo Redondo",
+    "latitude" : -6.23829,
+    "longitude" : -36.1888,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1641),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48c"),
+    "index" : NumberInt(24),
+    "Unnamed: 0" : NumberInt(1028),
+    "codigo_ibge" : NumberInt(2402204),
+    "nome" : "Canguaretama",
+    "latitude" : -6.37193,
+    "longitude" : -35.1281,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1643),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48d"),
+    "index" : NumberInt(25),
+    "Unnamed: 0" : NumberInt(1100),
+    "codigo_ibge" : NumberInt(2402303),
+    "nome" : "Caraúbas",
+    "latitude" : -5.78387,
+    "longitude" : -37.5586,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1645),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48e"),
+    "index" : NumberInt(26),
+    "Unnamed: 0" : NumberInt(1139),
+    "codigo_ibge" : NumberInt(2402402),
+    "nome" : "Carnaúba dos Dantas",
+    "latitude" : -6.55015,
+    "longitude" : -36.5868,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1647),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a48f"),
+    "index" : NumberInt(27),
+    "Unnamed: 0" : NumberInt(1140),
+    "codigo_ibge" : NumberInt(2402501),
+    "nome" : "Carnaubais",
+    "latitude" : -5.34181,
+    "longitude" : -36.8335,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1649),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a490"),
+    "index" : NumberInt(28),
+    "Unnamed: 0" : NumberInt(1207),
+    "codigo_ibge" : NumberInt(2402600),
+    "nome" : "Ceará-Mirim",
+    "latitude" : -5.64323,
+    "longitude" : -35.4247,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1651),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a491"),
+    "index" : NumberInt(29),
+    "Unnamed: 0" : NumberInt(1231),
+    "codigo_ibge" : NumberInt(2402709),
+    "nome" : "Cerro Corá",
+    "latitude" : -6.03503,
+    "longitude" : -36.3503,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1653),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a492"),
+    "index" : NumberInt(30),
+    "Unnamed: 0" : NumberInt(1399),
+    "codigo_ibge" : NumberInt(2402808),
+    "nome" : "Coronel Ezequiel",
+    "latitude" : -6.3748,
+    "longitude" : -36.2223,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1655),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a493"),
+    "index" : NumberInt(31),
+    "Unnamed: 0" : NumberInt(1402),
+    "codigo_ibge" : NumberInt(2402907),
+    "nome" : "Coronel João Pessoa",
+    "latitude" : -6.24974,
+    "longitude" : -38.4441,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1657),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a494"),
+    "index" : NumberInt(32),
+    "Unnamed: 0" : NumberInt(1486),
+    "codigo_ibge" : NumberInt(2403004),
+    "nome" : "Cruzeta",
+    "latitude" : -6.40894,
+    "longitude" : -36.7782,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1659),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a495"),
+    "index" : NumberInt(33),
+    "Unnamed: 0" : NumberInt(1512),
+    "codigo_ibge" : NumberInt(2403103),
+    "nome" : "Currais Novos",
+    "latitude" : -6.25484,
+    "longitude" : -36.5146,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1661),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a496"),
+    "index" : NumberInt(34),
+    "Unnamed: 0" : NumberInt(1627),
+    "codigo_ibge" : NumberInt(2403202),
+    "nome" : "Doutor Severiano",
+    "latitude" : -6.08082,
+    "longitude" : -38.3794,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1663),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a497"),
+    "index" : NumberInt(35),
+    "Unnamed: 0" : NumberInt(1660),
+    "codigo_ibge" : NumberInt(2403301),
+    "nome" : "Encanto",
+    "latitude" : -6.10691,
+    "longitude" : -38.3033,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1665),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a498"),
+    "index" : NumberInt(36),
+    "Unnamed: 0" : NumberInt(1679),
+    "codigo_ibge" : NumberInt(2403400),
+    "nome" : "Equador",
+    "latitude" : -6.93835,
+    "longitude" : -36.717,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1667),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a499"),
+    "index" : NumberInt(37),
+    "Unnamed: 0" : NumberInt(1703),
+    "codigo_ibge" : NumberInt(2403509),
+    "nome" : "Espírito Santo",
+    "latitude" : -6.33563,
+    "longitude" : -35.3052,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1669),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49a"),
+    "index" : NumberInt(38),
+    "Unnamed: 0" : NumberInt(1733),
+    "codigo_ibge" : NumberInt(2403608),
+    "nome" : "Extremoz",
+    "latitude" : -5.70143,
+    "longitude" : -35.3048,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1671),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49b"),
+    "index" : NumberInt(39),
+    "Unnamed: 0" : NumberInt(1764),
+    "codigo_ibge" : NumberInt(2403707),
+    "nome" : "Felipe Guerra",
+    "latitude" : -5.59274,
+    "longitude" : -37.6875,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1673),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49c"),
+    "index" : NumberInt(40),
+    "Unnamed: 0" : NumberInt(1775),
+    "codigo_ibge" : NumberInt(2403756),
+    "nome" : "Fernando Pedroza",
+    "latitude" : -5.69096,
+    "longitude" : -36.5282,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(416),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49d"),
+    "index" : NumberInt(41),
+    "Unnamed: 0" : NumberInt(1797),
+    "codigo_ibge" : NumberInt(2403806),
+    "nome" : "Florânia",
+    "latitude" : -6.12264,
+    "longitude" : -36.8226,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1675),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49e"),
+    "index" : NumberInt(42),
+    "Unnamed: 0" : NumberInt(1848),
+    "codigo_ibge" : NumberInt(2403905),
+    "nome" : "Francisco Dantas",
+    "latitude" : -6.07234,
+    "longitude" : -38.1212,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1677),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a49f"),
+    "index" : NumberInt(43),
+    "Unnamed: 0" : NumberInt(1870),
+    "codigo_ibge" : NumberInt(2404002),
+    "nome" : "Frutuoso Gomes",
+    "latitude" : -6.15669,
+    "longitude" : -37.8375,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1751),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a0"),
+    "index" : NumberInt(44),
+    "Unnamed: 0" : NumberInt(1877),
+    "codigo_ibge" : NumberInt(2404101),
+    "nome" : "Galinhos",
+    "latitude" : -5.0909,
+    "longitude" : -36.2754,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1679),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a1"),
+    "index" : NumberInt(45),
+    "Unnamed: 0" : NumberInt(1928),
+    "codigo_ibge" : NumberInt(2404200),
+    "nome" : "Goianinha",
+    "latitude" : -6.26486,
+    "longitude" : -35.1943,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1681),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a2"),
+    "index" : NumberInt(46),
+    "Unnamed: 0" : NumberInt(1944),
+    "codigo_ibge" : NumberInt(2404309),
+    "nome" : "Governador Dix-Sept Rosado",
+    "latitude" : -5.44887,
+    "longitude" : -37.5183,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1683),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a3"),
+    "index" : NumberInt(47),
+    "Unnamed: 0" : NumberInt(1971),
+    "codigo_ibge" : NumberInt(2404408),
+    "nome" : "Grossos",
+    "latitude" : -4.98068,
+    "longitude" : -37.1621,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1685),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a4"),
+    "index" : NumberInt(48),
+    "Unnamed: 0" : NumberInt(1987),
+    "codigo_ibge" : NumberInt(2404507),
+    "nome" : "Guamaré",
+    "latitude" : -5.10619,
+    "longitude" : -36.3222,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1687),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a5"),
+    "index" : NumberInt(49),
+    "Unnamed: 0" : NumberInt(2136),
+    "codigo_ibge" : NumberInt(2404606),
+    "nome" : "Ielmo Marinho",
+    "latitude" : -5.82447,
+    "longitude" : -35.55,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1689),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a6"),
+    "index" : NumberInt(50),
+    "Unnamed: 0" : NumberInt(2220),
+    "codigo_ibge" : NumberInt(2404705),
+    "nome" : "Ipanguaçu",
+    "latitude" : -5.48984,
+    "longitude" : -36.8501,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1691),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a7"),
+    "index" : NumberInt(51),
+    "Unnamed: 0" : NumberInt(2250),
+    "codigo_ibge" : NumberInt(2404804),
+    "nome" : "Ipueira",
+    "latitude" : -6.80596,
+    "longitude" : -37.2045,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1693),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a8"),
+    "index" : NumberInt(52),
+    "Unnamed: 0" : NumberInt(2325),
+    "codigo_ibge" : NumberInt(2404853),
+    "nome" : "Itajá",
+    "latitude" : -5.63894,
+    "longitude" : -36.8712,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(418),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4a9"),
+    "index" : NumberInt(53),
+    "Unnamed: 0" : NumberInt(2420),
+    "codigo_ibge" : NumberInt(2404903),
+    "nome" : "Itaú",
+    "latitude" : -5.8363,
+    "longitude" : -37.9912,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1695),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4aa"),
+    "index" : NumberInt(54),
+    "Unnamed: 0" : NumberInt(2469),
+    "codigo_ibge" : NumberInt(2405009),
+    "nome" : "Jaçanã",
+    "latitude" : -6.41856,
+    "longitude" : -36.2031,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1697),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ab"),
+    "index" : NumberInt(55),
+    "Unnamed: 0" : NumberInt(2512),
+    "codigo_ibge" : NumberInt(2405108),
+    "nome" : "Jandaíra",
+    "latitude" : -5.35211,
+    "longitude" : -36.1278,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1699),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ac"),
+    "index" : NumberInt(56),
+    "Unnamed: 0" : NumberInt(2515),
+    "codigo_ibge" : NumberInt(2405207),
+    "nome" : "Janduís",
+    "latitude" : -6.01474,
+    "longitude" : -37.4048,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1701),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ad"),
+    "index" : NumberInt(57),
+    "Unnamed: 0" : NumberInt(2519),
+    "codigo_ibge" : NumberInt(2405306),
+    "nome" : "Januário Cicco (Boa Saúde)",
+    "latitude" : -6.16566,
+    "longitude" : -35.6219,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1703),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ae"),
+    "index" : NumberInt(58),
+    "Unnamed: 0" : NumberInt(2524),
+    "codigo_ibge" : NumberInt(2405405),
+    "nome" : "Japi",
+    "latitude" : -6.46544,
+    "longitude" : -35.9346,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1705),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4af"),
+    "index" : NumberInt(59),
+    "Unnamed: 0" : NumberInt(2540),
+    "codigo_ibge" : NumberInt(2405504),
+    "nome" : "Jardim de Angicos",
+    "latitude" : -5.64999,
+    "longitude" : -35.9713,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1707),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b0"),
+    "index" : NumberInt(60),
+    "Unnamed: 0" : NumberInt(2541),
+    "codigo_ibge" : NumberInt(2405603),
+    "nome" : "Jardim de Piranhas",
+    "latitude" : -6.37665,
+    "longitude" : -37.3496,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1709),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b1"),
+    "index" : NumberInt(61),
+    "Unnamed: 0" : NumberInt(2543),
+    "codigo_ibge" : NumberInt(2405702),
+    "nome" : "Jardim do Seridó",
+    "latitude" : -6.58047,
+    "longitude" : -36.7736,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1711),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b2"),
+    "index" : NumberInt(62),
+    "Unnamed: 0" : NumberInt(2588),
+    "codigo_ibge" : NumberInt(2405801),
+    "nome" : "João Câmara",
+    "latitude" : -5.54094,
+    "longitude" : -35.8122,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1713),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b3"),
+    "index" : NumberInt(63),
+    "Unnamed: 0" : NumberInt(2590),
+    "codigo_ibge" : NumberInt(2405900),
+    "nome" : "João Dias",
+    "latitude" : -6.27215,
+    "longitude" : -37.7885,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1715),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b4"),
+    "index" : NumberInt(64),
+    "Unnamed: 0" : NumberInt(2611),
+    "codigo_ibge" : NumberInt(2406007),
+    "nome" : "José da Penha",
+    "latitude" : -6.31095,
+    "longitude" : -38.2823,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1717),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b5"),
+    "index" : NumberInt(65),
+    "Unnamed: 0" : NumberInt(2629),
+    "codigo_ibge" : NumberInt(2406106),
+    "nome" : "Jucurutu",
+    "latitude" : -6.0306,
+    "longitude" : -37.009,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1719),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b6"),
+    "index" : NumberInt(66),
+    "Unnamed: 0" : NumberInt(2638),
+    "codigo_ibge" : NumberInt(2406155),
+    "nome" : "Jundiá",
+    "latitude" : -6.26866,
+    "longitude" : -35.3495,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1108),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b7"),
+    "index" : NumberInt(67),
+    "Unnamed: 0" : NumberInt(2683),
+    "codigo_ibge" : NumberInt(2406205),
+    "nome" : "Lagoa d'Anta",
+    "latitude" : -6.39493,
+    "longitude" : -35.5949,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1723),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b8"),
+    "index" : NumberInt(68),
+    "Unnamed: 0" : NumberInt(2689),
+    "codigo_ibge" : NumberInt(2406304),
+    "nome" : "Lagoa de Pedras",
+    "latitude" : -6.15082,
+    "longitude" : -35.4299,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1725),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4b9"),
+    "index" : NumberInt(69),
+    "Unnamed: 0" : NumberInt(2691),
+    "codigo_ibge" : NumberInt(2406403),
+    "nome" : "Lagoa de Velhos",
+    "latitude" : -6.0119,
+    "longitude" : -35.8729,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1727),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ba"),
+    "index" : NumberInt(70),
+    "Unnamed: 0" : NumberInt(2707),
+    "codigo_ibge" : NumberInt(2406502),
+    "nome" : "Lagoa Nova",
+    "latitude" : -6.09339,
+    "longitude" : -36.4703,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1729),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4bb"),
+    "index" : NumberInt(71),
+    "Unnamed: 0" : NumberInt(2709),
+    "codigo_ibge" : NumberInt(2406601),
+    "nome" : "Lagoa Salgada",
+    "latitude" : -6.12295,
+    "longitude" : -35.4724,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1731),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4bc"),
+    "index" : NumberInt(72),
+    "Unnamed: 0" : NumberInt(2730),
+    "codigo_ibge" : NumberInt(2406700),
+    "nome" : "Lajes",
+    "latitude" : -5.69322,
+    "longitude" : -36.247,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1733),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4bd"),
+    "index" : NumberInt(73),
+    "Unnamed: 0" : NumberInt(2731),
+    "codigo_ibge" : NumberInt(2406809),
+    "nome" : "Lajes Pintadas",
+    "latitude" : -6.14943,
+    "longitude" : -36.1171,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1735),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4be"),
+    "index" : NumberInt(74),
+    "Unnamed: 0" : NumberInt(2805),
+    "codigo_ibge" : NumberInt(2406908),
+    "nome" : "Lucrécia",
+    "latitude" : -6.10525,
+    "longitude" : -37.8134,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1737),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4bf"),
+    "index" : NumberInt(75),
+    "Unnamed: 0" : NumberInt(2810),
+    "codigo_ibge" : NumberInt(2407005),
+    "nome" : "Luís Gomes",
+    "latitude" : -6.40588,
+    "longitude" : -38.3899,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1739),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c0"),
+    "index" : NumberInt(76),
+    "Unnamed: 0" : NumberInt(2827),
+    "codigo_ibge" : NumberInt(2407104),
+    "nome" : "Macaíba",
+    "latitude" : -5.85229,
+    "longitude" : -35.3552,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1741),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c1"),
+    "index" : NumberInt(77),
+    "Unnamed: 0" : NumberInt(2835),
+    "codigo_ibge" : NumberInt(2407203),
+    "nome" : "Macau",
+    "latitude" : -5.10795,
+    "longitude" : -36.6318,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1743),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c2"),
+    "index" : NumberInt(78),
+    "Unnamed: 0" : NumberInt(2867),
+    "codigo_ibge" : NumberInt(2407252),
+    "nome" : "Major Sales",
+    "latitude" : -6.39949,
+    "longitude" : -38.324,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(420),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c3"),
+    "index" : NumberInt(79),
+    "Unnamed: 0" : NumberInt(2938),
+    "codigo_ibge" : NumberInt(2407302),
+    "nome" : "Marcelino Vieira",
+    "latitude" : -6.2846,
+    "longitude" : -38.1642,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1745),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c4"),
+    "index" : NumberInt(80),
+    "Unnamed: 0" : NumberInt(2981),
+    "codigo_ibge" : NumberInt(2407401),
+    "nome" : "Martins",
+    "latitude" : -6.08279,
+    "longitude" : -37.908,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1747),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c5"),
+    "index" : NumberInt(81),
+    "Unnamed: 0" : NumberInt(3032),
+    "codigo_ibge" : NumberInt(2407500),
+    "nome" : "Maxaranguape",
+    "latitude" : -5.52181,
+    "longitude" : -35.2631,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1749),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c6"),
+    "index" : NumberInt(82),
+    "Unnamed: 0" : NumberInt(3053),
+    "codigo_ibge" : NumberInt(2407609),
+    "nome" : "Messias Targino",
+    "latitude" : -6.07194,
+    "longitude" : -37.5158,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1721),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c7"),
+    "index" : NumberInt(83),
+    "Unnamed: 0" : NumberInt(3130),
+    "codigo_ibge" : NumberInt(2407708),
+    "nome" : "Montanhas",
+    "latitude" : -6.48522,
+    "longitude" : -35.2842,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1753),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c8"),
+    "index" : NumberInt(84),
+    "Unnamed: 0" : NumberInt(3133),
+    "codigo_ibge" : NumberInt(2407807),
+    "nome" : "Monte Alegre",
+    "latitude" : -6.07063,
+    "longitude" : -35.3253,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1755),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4c9"),
+    "index" : NumberInt(85),
+    "Unnamed: 0" : NumberInt(3150),
+    "codigo_ibge" : NumberInt(2407906),
+    "nome" : "Monte das Gameleiras",
+    "latitude" : -6.43698,
+    "longitude" : -35.7831,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1757),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ca"),
+    "index" : NumberInt(86),
+    "Unnamed: 0" : NumberInt(3197),
+    "codigo_ibge" : NumberInt(2408003),
+    "nome" : "Mossoró",
+    "latitude" : -5.18374,
+    "longitude" : -37.3474,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1759),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4cb"),
+    "index" : NumberInt(87),
+    "Unnamed: 0" : NumberInt(3239),
+    "codigo_ibge" : NumberInt(2408102),
+    "nome" : "Natal",
+    "latitude" : -5.79357,
+    "longitude" : -35.1986,
+    "capital" : NumberInt(1),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1761),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4cc"),
+    "index" : NumberInt(88),
+    "Unnamed: 0" : NumberInt(3271),
+    "codigo_ibge" : NumberInt(2408201),
+    "nome" : "Nísia Floresta",
+    "latitude" : -6.09329,
+    "longitude" : -35.1991,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1763),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4cd"),
+    "index" : NumberInt(89),
+    "Unnamed: 0" : NumberInt(3313),
+    "codigo_ibge" : NumberInt(2408300),
+    "nome" : "Nova Cruz",
+    "latitude" : -6.47511,
+    "longitude" : -35.4286,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1765),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ce"),
+    "index" : NumberInt(90),
+    "Unnamed: 0" : NumberInt(3441),
+    "codigo_ibge" : NumberInt(2408409),
+    "nome" : "Olho-d'Água do Borges",
+    "latitude" : -5.9486,
+    "longitude" : -37.7047,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1767),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4cf"),
+    "index" : NumberInt(91),
+    "Unnamed: 0" : NumberInt(3481),
+    "codigo_ibge" : NumberInt(2408508),
+    "nome" : "Ouro Branco",
+    "latitude" : -6.6958,
+    "longitude" : -36.9428,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1769),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d0"),
+    "index" : NumberInt(92),
+    "Unnamed: 0" : NumberInt(3588),
+    "codigo_ibge" : NumberInt(2408607),
+    "nome" : "Paraná",
+    "latitude" : -6.47565,
+    "longitude" : -38.3057,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1771),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d1"),
+    "index" : NumberInt(93),
+    "Unnamed: 0" : NumberInt(3606),
+    "codigo_ibge" : NumberInt(2408706),
+    "nome" : "Paraú",
+    "latitude" : -5.76893,
+    "longitude" : -37.1032,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1773),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d2"),
+    "index" : NumberInt(94),
+    "Unnamed: 0" : NumberInt(3609),
+    "codigo_ibge" : NumberInt(2408805),
+    "nome" : "Parazinho",
+    "latitude" : -5.22276,
+    "longitude" : -35.8398,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1775),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d3"),
+    "index" : NumberInt(95),
+    "Unnamed: 0" : NumberInt(3613),
+    "codigo_ibge" : NumberInt(2408904),
+    "nome" : "Parelhas",
+    "latitude" : -6.68491,
+    "longitude" : -36.6566,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1777),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d4"),
+    "index" : NumberInt(96),
+    "Unnamed: 0" : NumberInt(3622),
+    "codigo_ibge" : NumberInt(2403251),
+    "nome" : "Parnamirim",
+    "latitude" : -5.91116,
+    "longitude" : -35.271,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1779),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d5"),
+    "index" : NumberInt(97),
+    "Unnamed: 0" : NumberInt(3626),
+    "codigo_ibge" : NumberInt(2409100),
+    "nome" : "Passa e Fica",
+    "latitude" : -6.43018,
+    "longitude" : -35.6442,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1781),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d6"),
+    "index" : NumberInt(98),
+    "Unnamed: 0" : NumberInt(3632),
+    "codigo_ibge" : NumberInt(2409209),
+    "nome" : "Passagem",
+    "latitude" : -6.27268,
+    "longitude" : -35.37,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1783),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d7"),
+    "index" : NumberInt(99),
+    "Unnamed: 0" : NumberInt(3653),
+    "codigo_ibge" : NumberInt(2409308),
+    "nome" : "Patu",
+    "latitude" : -6.10656,
+    "longitude" : -37.6356,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1785),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d8"),
+    "index" : NumberInt(100),
+    "Unnamed: 0" : NumberInt(3659),
+    "codigo_ibge" : NumberInt(2409407),
+    "nome" : "Pau dos Ferros",
+    "latitude" : -6.10498,
+    "longitude" : -38.2077,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1787),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4d9"),
+    "index" : NumberInt(101),
+    "Unnamed: 0" : NumberInt(3696),
+    "codigo_ibge" : NumberInt(2409506),
+    "nome" : "Pedra Grande",
+    "latitude" : -5.14988,
+    "longitude" : -35.876,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1789),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4da"),
+    "index" : NumberInt(102),
+    "Unnamed: 0" : NumberInt(3699),
+    "codigo_ibge" : NumberInt(2409605),
+    "nome" : "Pedra Preta",
+    "latitude" : -5.57352,
+    "longitude" : -36.1084,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1791),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4db"),
+    "index" : NumberInt(103),
+    "Unnamed: 0" : NumberInt(3716),
+    "codigo_ibge" : NumberInt(2409704),
+    "nome" : "Pedro Avelino",
+    "latitude" : -5.5161,
+    "longitude" : -36.3867,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1793),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4dc"),
+    "index" : NumberInt(104),
+    "Unnamed: 0" : NumberInt(3727),
+    "codigo_ibge" : NumberInt(2409803),
+    "nome" : "Pedro Velho",
+    "latitude" : -6.4356,
+    "longitude" : -35.2195,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1795),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4dd"),
+    "index" : NumberInt(105),
+    "Unnamed: 0" : NumberInt(3736),
+    "codigo_ibge" : NumberInt(2409902),
+    "nome" : "Pendências",
+    "latitude" : -5.2564,
+    "longitude" : -36.7095,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1797),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4de"),
+    "index" : NumberInt(106),
+    "Unnamed: 0" : NumberInt(3786),
+    "codigo_ibge" : NumberInt(2410009),
+    "nome" : "Pilões",
+    "latitude" : -6.26364,
+    "longitude" : -38.0461,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1799),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4df"),
+    "index" : NumberInt(107),
+    "Unnamed: 0" : NumberInt(3889),
+    "codigo_ibge" : NumberInt(2410108),
+    "nome" : "Poço Branco",
+    "latitude" : -5.62233,
+    "longitude" : -35.6635,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1801),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e0"),
+    "index" : NumberInt(108),
+    "Unnamed: 0" : NumberInt(3938),
+    "codigo_ibge" : NumberInt(2410207),
+    "nome" : "Portalegre",
+    "latitude" : -6.02064,
+    "longitude" : -37.9865,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1803),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e1"),
+    "index" : NumberInt(109),
+    "Unnamed: 0" : NumberInt(3958),
+    "codigo_ibge" : NumberInt(2410256),
+    "nome" : "Porto do Mangue",
+    "latitude" : -5.05441,
+    "longitude" : -36.7887,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(426),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e2"),
+    "index" : NumberInt(110),
+    "Unnamed: 0" : NumberInt(4053),
+    "codigo_ibge" : NumberInt(2410405),
+    "nome" : "Pureza",
+    "latitude" : -5.46393,
+    "longitude" : -35.5554,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1807),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e3"),
+    "index" : NumberInt(111),
+    "Unnamed: 0" : NumberInt(4096),
+    "codigo_ibge" : NumberInt(2410504),
+    "nome" : "Rafael Fernandes",
+    "latitude" : -6.18987,
+    "longitude" : -38.2211,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1809),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e4"),
+    "index" : NumberInt(112),
+    "Unnamed: 0" : NumberInt(4097),
+    "codigo_ibge" : NumberInt(2410603),
+    "nome" : "Rafael Godeiro",
+    "latitude" : -6.07244,
+    "longitude" : -37.716,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1893),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e5"),
+    "index" : NumberInt(113),
+    "Unnamed: 0" : NumberInt(4147),
+    "codigo_ibge" : NumberInt(2410702),
+    "nome" : "Riacho da Cruz",
+    "latitude" : -5.92654,
+    "longitude" : -37.949,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1811),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e6"),
+    "index" : NumberInt(114),
+    "Unnamed: 0" : NumberInt(4149),
+    "codigo_ibge" : NumberInt(2410801),
+    "nome" : "Riacho de Santana",
+    "latitude" : -6.25139,
+    "longitude" : -38.3116,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1813),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e7"),
+    "index" : NumberInt(115),
+    "Unnamed: 0" : NumberInt(4155),
+    "codigo_ibge" : NumberInt(2410900),
+    "nome" : "Riachuelo",
+    "latitude" : -5.82156,
+    "longitude" : -35.8215,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1815),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e8"),
+    "index" : NumberInt(116),
+    "Unnamed: 0" : NumberInt(4210),
+    "codigo_ibge" : NumberInt(2408953),
+    "nome" : "Rio do Fogo",
+    "latitude" : -5.2765,
+    "longitude" : -35.3794,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(422),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4e9"),
+    "index" : NumberInt(117),
+    "Unnamed: 0" : NumberInt(4260),
+    "codigo_ibge" : NumberInt(2411007),
+    "nome" : "Rodolfo Fernandes",
+    "latitude" : -5.78393,
+    "longitude" : -38.0579,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1817),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ea"),
+    "index" : NumberInt(118),
+    "Unnamed: 0" : NumberInt(4293),
+    "codigo_ibge" : NumberInt(2411106),
+    "nome" : "Ruy Barbosa",
+    "latitude" : -5.88745,
+    "longitude" : -35.933,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1819),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4eb"),
+    "index" : NumberInt(119),
+    "Unnamed: 0" : NumberInt(4366),
+    "codigo_ibge" : NumberInt(2411205),
+    "nome" : "Santa Cruz",
+    "latitude" : -6.22475,
+    "longitude" : -36.0193,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1823),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ec"),
+    "index" : NumberInt(120),
+    "Unnamed: 0" : NumberInt(4431),
+    "codigo_ibge" : NumberInt(2409332),
+    "nome" : "Santa Maria",
+    "latitude" : -5.83802,
+    "longitude" : -35.6914,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(424),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ed"),
+    "index" : NumberInt(121),
+    "Unnamed: 0" : NumberInt(4514),
+    "codigo_ibge" : NumberInt(2411403),
+    "nome" : "Santana do Matos",
+    "latitude" : -5.94605,
+    "longitude" : -36.6578,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1827),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ee"),
+    "index" : NumberInt(122),
+    "Unnamed: 0" : NumberInt(4520),
+    "codigo_ibge" : NumberInt(2411429),
+    "nome" : "Santana do Seridó",
+    "latitude" : -6.76643,
+    "longitude" : -36.7312,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1825),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ef"),
+    "index" : NumberInt(123),
+    "Unnamed: 0" : NumberInt(4537),
+    "codigo_ibge" : NumberInt(2411502),
+    "nome" : "Santo Antônio",
+    "latitude" : -6.31195,
+    "longitude" : -35.4739,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1829),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f0"),
+    "index" : NumberInt(124),
+    "Unnamed: 0" : NumberInt(4589),
+    "codigo_ibge" : NumberInt(2411601),
+    "nome" : "São Bento do Norte",
+    "latitude" : -5.09259,
+    "longitude" : -35.9587,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1831),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f1"),
+    "index" : NumberInt(125),
+    "Unnamed: 0" : NumberInt(4593),
+    "codigo_ibge" : NumberInt(2411700),
+    "nome" : "São Bento do Trairí",
+    "latitude" : -6.33798,
+    "longitude" : -36.0863,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1833),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f2"),
+    "index" : NumberInt(126),
+    "Unnamed: 0" : NumberInt(4636),
+    "codigo_ibge" : NumberInt(2411809),
+    "nome" : "São Fernando",
+    "latitude" : -6.37975,
+    "longitude" : -37.1864,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1835),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f3"),
+    "index" : NumberInt(127),
+    "Unnamed: 0" : NumberInt(4654),
+    "codigo_ibge" : NumberInt(2411908),
+    "nome" : "São Francisco do Oeste",
+    "latitude" : -5.97472,
+    "longitude" : -38.1519,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1821),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f4"),
+    "index" : NumberInt(128),
+    "Unnamed: 0" : NumberInt(4669),
+    "codigo_ibge" : NumberInt(2412005),
+    "nome" : "São Gonçalo do Amarante",
+    "latitude" : -5.79068,
+    "longitude" : -35.3257,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1837),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f5"),
+    "index" : NumberInt(129),
+    "Unnamed: 0" : NumberInt(4725),
+    "codigo_ibge" : NumberInt(2412104),
+    "nome" : "São João do Sabugi",
+    "latitude" : -6.71387,
+    "longitude" : -37.2027,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1839),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f6"),
+    "index" : NumberInt(130),
+    "Unnamed: 0" : NumberInt(4757),
+    "codigo_ibge" : NumberInt(2412203),
+    "nome" : "São José de Mipibu",
+    "latitude" : -6.0773,
+    "longitude" : -35.2417,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1841),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f7"),
+    "index" : NumberInt(131),
+    "Unnamed: 0" : NumberInt(4768),
+    "codigo_ibge" : NumberInt(2412302),
+    "nome" : "São José do Campestre",
+    "latitude" : -6.31087,
+    "longitude" : -35.7067,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1843),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f8"),
+    "index" : NumberInt(132),
+    "Unnamed: 0" : NumberInt(4790),
+    "codigo_ibge" : NumberInt(2412401),
+    "nome" : "São José do Seridó",
+    "latitude" : -6.44002,
+    "longitude" : -36.8746,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1845),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4f9"),
+    "index" : NumberInt(133),
+    "Unnamed: 0" : NumberInt(4830),
+    "codigo_ibge" : NumberInt(2412500),
+    "nome" : "São Miguel",
+    "latitude" : -6.20283,
+    "longitude" : -38.4947,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1847),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4fa"),
+    "index" : NumberInt(134),
+    "Unnamed: 0" : NumberInt(4841),
+    "codigo_ibge" : NumberInt(2412559),
+    "nome" : "São Miguel do Gostoso",
+    "latitude" : -5.12302,
+    "longitude" : -35.6354,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(430),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4fb"),
+    "index" : NumberInt(135),
+    "Unnamed: 0" : NumberInt(4856),
+    "codigo_ibge" : NumberInt(2412609),
+    "nome" : "São Paulo do Potengi",
+    "latitude" : -5.8994,
+    "longitude" : -35.7642,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1849),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4fc"),
+    "index" : NumberInt(136),
+    "Unnamed: 0" : NumberInt(4857),
+    "codigo_ibge" : NumberInt(2412708),
+    "nome" : "São Pedro",
+    "latitude" : -5.90559,
+    "longitude" : -35.6317,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1851),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4fd"),
+    "index" : NumberInt(137),
+    "Unnamed: 0" : NumberInt(4876),
+    "codigo_ibge" : NumberInt(2412807),
+    "nome" : "São Rafael",
+    "latitude" : -5.79791,
+    "longitude" : -36.8778,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1853),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4fe"),
+    "index" : NumberInt(138),
+    "Unnamed: 0" : NumberInt(4913),
+    "codigo_ibge" : NumberInt(2412906),
+    "nome" : "São Tomé",
+    "latitude" : -5.96404,
+    "longitude" : -36.0798,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1855),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a4ff"),
+    "index" : NumberInt(139),
+    "Unnamed: 0" : NumberInt(4920),
+    "codigo_ibge" : NumberInt(2413003),
+    "nome" : "São Vicente",
+    "latitude" : -6.21893,
+    "longitude" : -36.6827,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1857),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a500"),
+    "index" : NumberInt(140),
+    "Unnamed: 0" : NumberInt(4967),
+    "codigo_ibge" : NumberInt(2413102),
+    "nome" : "Senador Elói de Souza",
+    "latitude" : -6.03334,
+    "longitude" : -35.6978,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1859),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a501"),
+    "index" : NumberInt(141),
+    "Unnamed: 0" : NumberInt(4969),
+    "codigo_ibge" : NumberInt(2413201),
+    "nome" : "Senador Georgino Avelino",
+    "latitude" : -6.1576,
+    "longitude" : -35.1299,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1861),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a502"),
+    "index" : NumberInt(142),
+    "Unnamed: 0" : NumberInt(4997),
+    "codigo_ibge" : NumberInt(2410306),
+    "nome" : "Serra Caiada",
+    "latitude" : -6.10478,
+    "longitude" : -35.7113,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1805),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a503"),
+    "index" : NumberInt(143),
+    "Unnamed: 0" : NumberInt(5000),
+    "codigo_ibge" : NumberInt(2413300),
+    "nome" : "Serra de São Bento",
+    "latitude" : -6.41762,
+    "longitude" : -35.7033,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1863),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a504"),
+    "index" : NumberInt(144),
+    "Unnamed: 0" : NumberInt(5001),
+    "codigo_ibge" : NumberInt(2413359),
+    "nome" : "Serra do Mel",
+    "latitude" : -5.17725,
+    "longitude" : -37.0242,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1927),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a505"),
+    "index" : NumberInt(145),
+    "Unnamed: 0" : NumberInt(5009),
+    "codigo_ibge" : NumberInt(2413409),
+    "nome" : "Serra Negra do Norte",
+    "latitude" : -6.66031,
+    "longitude" : -37.3996,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1865),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a506"),
+    "index" : NumberInt(146),
+    "Unnamed: 0" : NumberInt(5022),
+    "codigo_ibge" : NumberInt(2413508),
+    "nome" : "Serrinha",
+    "latitude" : -6.28181,
+    "longitude" : -35.5,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1867),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a507"),
+    "index" : NumberInt(147),
+    "Unnamed: 0" : NumberInt(5024),
+    "codigo_ibge" : NumberInt(2413557),
+    "nome" : "Serrinha dos Pintos",
+    "latitude" : -6.11087,
+    "longitude" : -37.9548,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(432),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a508"),
+    "index" : NumberInt(148),
+    "Unnamed: 0" : NumberInt(5041),
+    "codigo_ibge" : NumberInt(2413607),
+    "nome" : "Severiano Melo",
+    "latitude" : -5.77666,
+    "longitude" : -37.957,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1869),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a509"),
+    "index" : NumberInt(149),
+    "Unnamed: 0" : NumberInt(5070),
+    "codigo_ibge" : NumberInt(2413706),
+    "nome" : "Sítio Novo",
+    "latitude" : -6.11132,
+    "longitude" : -35.909,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1871),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50a"),
+    "index" : NumberInt(150),
+    "Unnamed: 0" : NumberInt(5115),
+    "codigo_ibge" : NumberInt(2413805),
+    "nome" : "Taboleiro Grande",
+    "latitude" : -5.91948,
+    "longitude" : -38.0367,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1873),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50b"),
+    "index" : NumberInt(151),
+    "Unnamed: 0" : NumberInt(5130),
+    "codigo_ibge" : NumberInt(2413904),
+    "nome" : "Taipu",
+    "latitude" : -5.63058,
+    "longitude" : -35.5918,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1875),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50c"),
+    "index" : NumberInt(152),
+    "Unnamed: 0" : NumberInt(5140),
+    "codigo_ibge" : NumberInt(2414001),
+    "nome" : "Tangará",
+    "latitude" : -6.19649,
+    "longitude" : -35.7989,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1877),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50d"),
+    "index" : NumberInt(153),
+    "Unnamed: 0" : NumberInt(5198),
+    "codigo_ibge" : NumberInt(2414100),
+    "nome" : "Tenente Ananias",
+    "latitude" : -6.45823,
+    "longitude" : -38.182,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1879),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50e"),
+    "index" : NumberInt(154),
+    "Unnamed: 0" : NumberInt(5199),
+    "codigo_ibge" : NumberInt(2414159),
+    "nome" : "Tenente Laurentino Cruz",
+    "latitude" : -6.1378,
+    "longitude" : -36.7135,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(434),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a50f"),
+    "index" : NumberInt(155),
+    "Unnamed: 0" : NumberInt(5229),
+    "codigo_ibge" : NumberInt(2411056),
+    "nome" : "Tibau",
+    "latitude" : -4.83729,
+    "longitude" : -37.2554,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(428),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a510"),
+    "index" : NumberInt(156),
+    "Unnamed: 0" : NumberInt(5230),
+    "codigo_ibge" : NumberInt(2414209),
+    "nome" : "Tibau do Sul",
+    "latitude" : -6.19176,
+    "longitude" : -35.0866,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1881),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a511"),
+    "index" : NumberInt(157),
+    "Unnamed: 0" : NumberInt(5236),
+    "codigo_ibge" : NumberInt(2414308),
+    "nome" : "Timbaúba dos Batistas",
+    "latitude" : -6.45768,
+    "longitude" : -37.2745,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1883),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a512"),
+    "index" : NumberInt(158),
+    "Unnamed: 0" : NumberInt(5266),
+    "codigo_ibge" : NumberInt(2414407),
+    "nome" : "Touros",
+    "latitude" : -5.20182,
+    "longitude" : -35.4621,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1885),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a513"),
+    "index" : NumberInt(159),
+    "Unnamed: 0" : NumberInt(5303),
+    "codigo_ibge" : NumberInt(2414456),
+    "nome" : "Triunfo Potiguar",
+    "latitude" : -5.85408,
+    "longitude" : -37.1786,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(436),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a514"),
+    "index" : NumberInt(160),
+    "Unnamed: 0" : NumberInt(5368),
+    "codigo_ibge" : NumberInt(2414506),
+    "nome" : "Umarizal",
+    "latitude" : -5.98238,
+    "longitude" : -37.818,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1887),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a515"),
+    "index" : NumberInt(161),
+    "Unnamed: 0" : NumberInt(5387),
+    "codigo_ibge" : NumberInt(2414605),
+    "nome" : "Upanema",
+    "latitude" : -5.63761,
+    "longitude" : -37.2635,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1889),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a516"),
+    "index" : NumberInt(162),
+    "Unnamed: 0" : NumberInt(5445),
+    "codigo_ibge" : NumberInt(2414704),
+    "nome" : "Várzea",
+    "latitude" : -6.34641,
+    "longitude" : -35.3732,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1891),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a517"),
+    "index" : NumberInt(163),
+    "Unnamed: 0" : NumberInt(5462),
+    "codigo_ibge" : NumberInt(2414753),
+    "nome" : "Venha-Ver",
+    "latitude" : -6.32016,
+    "longitude" : -38.4896,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(438),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a518"),
+    "index" : NumberInt(164),
+    "Unnamed: 0" : NumberInt(5466),
+    "codigo_ibge" : NumberInt(2414803),
+    "nome" : "Vera Cruz",
+    "latitude" : -6.04399,
+    "longitude" : -35.428,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1895),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a519"),
+    "index" : NumberInt(165),
+    "Unnamed: 0" : NumberInt(5493),
+    "codigo_ibge" : NumberInt(2414902),
+    "nome" : "Viçosa",
+    "latitude" : -5.98253,
+    "longitude" : -37.9462,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1897),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
+{
+    "_id" : ObjectId("673e5ac7909e0611d923a51a"),
+    "index" : NumberInt(166),
+    "Unnamed: 0" : NumberInt(5505),
+    "codigo_ibge" : NumberInt(2415008),
+    "nome" : "Vila Flor",
+    "latitude" : -6.31287,
+    "longitude" : -35.067,
+    "capital" : NumberInt(0),
+    "codigo_uf" : NumberInt(24),
+    "siafi_id" : NumberInt(1899),
+    "ddd" : NumberInt(84),
+    "fuso_horario" : "America/Sao_Paulo"
+}
